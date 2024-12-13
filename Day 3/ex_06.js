@@ -5,7 +5,3 @@ function getIndexFromName(name) {
     if (i == -1) return null
     return i
 }
-
-// let result = getIndexFromName("Apple");
-// displayResult(result);
-// displayResult(getIndexFromName("test"));
